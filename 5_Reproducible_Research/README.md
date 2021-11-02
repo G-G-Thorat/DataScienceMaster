@@ -1,5 +1,5 @@
 # Reproducible Research
-Author: Michael Galarnyk <br />
+Author: G T <br />
 
 ## Projects 
 Project # | Markdown | R Markdown
@@ -13,11 +13,6 @@ Quiz # | Link
 2 | [Quiz](https://github.com/mGalarnyk/datasciencecoursera/blob/master/5_Reproducible_Research/quizzes/quiz2.md)
 1 | [Quiz](https://github.com/mGalarnyk/datasciencecoursera/blob/master/5_Reproducible_Research/quizzes/quiz1.md)
 
-## Contributors
-FirstName | LastName | Email
---- | --- | ---
-Michael |  Galarnyk |  <mgalarny@gmail.com>
-Submit |  Pull Request | <youremailhere@gmail.com>
 
 ## Blog Posts on the Specialization | John Hopkins Coursera
 
